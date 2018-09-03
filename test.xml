@@ -1,0 +1,4 @@
+requestUrl="http://gohcp.dyndns.org/bandwin/time2.php?action=menu" requestUrlTimeout="10000" terminatingDigits="#" maxDigits="1">
+    <SpeakSentence gender="female" locale="en_US" voice="susan">Thanks for calling Press 1 for more options</SpeakSentence>
+  </Gather>
+</Response>
